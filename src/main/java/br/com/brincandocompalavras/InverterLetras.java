@@ -1,8 +1,8 @@
-package br.com.brincandocompalavras.principal;
+package br.com.brincandocompalavras;
 
 import java.util.Scanner;
 
-public class Principal {
+public class InverterLetras {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe uma palavra para inverter: ");
